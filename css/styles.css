@@ -21,7 +21,6 @@ h6 {
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--main-text-color);
-  background-color: var(--backgrond-color);
 }
 
 img {
